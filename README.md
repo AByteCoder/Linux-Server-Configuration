@@ -5,7 +5,7 @@ Have deployed Item-Catalog flask application as an WSGI with Apache Server.
 #### Prerequisite for this project
 Create an Entry in /etc/hosts
 ``` 35.154.31.209 www.itemcatalog.com ``` in the local machine.
-** Note this step is important **
+**Note this step is important**
 
 #### Things needed to Access the Server
 - IP Address of the server **35.154.31.209** and ssh port **2200**.
